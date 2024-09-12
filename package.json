@@ -1,0 +1,13 @@
+{
+  "name": "B3_A4_server",
+  "version": "1.0.0",
+  "description": "b3a4 server",
+  "main": "index.js",
+  "author": "jasminch",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongodb": "^6.8.1"
+  }
+}
